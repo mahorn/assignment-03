@@ -1,0 +1,19 @@
+{
+  "name": "assignment-03",
+  "version": "1.0.0",
+  "description": "project for exploring Node and npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maria Renee Horn",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "csv-parse": "^2.2.0",
+    "csv2geojson": "^5.0.2"
+  }
+}
